@@ -1,0 +1,8 @@
+[submodule "UBOS-template-survey-generator-ui"]
+	path = UBOS-template-survey-generator-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-survey-generator-ui.git
+	branch = main
+[submodule "UBOS-template-survey-generator-nr"]
+	path = UBOS-template-survey-generator-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-survey-generator-nr.git
+	branch = main
